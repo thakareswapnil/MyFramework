@@ -1,0 +1,65 @@
+2023-07-23 01:10:47,987 - baseclass -INFO - open browser
+2023-07-23 01:10:48,224 - baseclass -INFO - maximize window
+2023-07-23 01:10:48,242 - baseclass -INFO - open window
+2023-07-23 01:10:53,475 - baseclass -INFO - open browser
+2023-07-23 01:10:53,661 - baseclass -INFO - maximize window
+2023-07-23 01:10:53,675 - baseclass -INFO - open window
+2023-07-23 01:12:48,555 - baseclass -INFO - open browser
+2023-07-23 01:12:48,716 - baseclass -INFO - maximize window
+2023-07-23 01:12:48,727 - baseclass -INFO - open window
+2023-07-23 01:14:22,599 - baseclass -INFO - open browser
+2023-07-23 01:14:22,770 - baseclass -INFO - maximize window
+2023-07-23 01:14:22,780 - baseclass -INFO - open window
+2023-07-23 01:17:26,436 - baseclass -INFO - open browser
+2023-07-23 01:17:26,603 - baseclass -INFO - maximize window
+2023-07-23 01:17:26,613 - baseclass -INFO - open window
+2023-07-23 01:19:07,871 - baseclass -INFO - open browser
+2023-07-23 01:19:08,056 - baseclass -INFO - maximize window
+2023-07-23 01:19:08,070 - baseclass -INFO - open window
+2023-07-23 01:19:11,814 - baseclass -INFO - close browser
+2023-07-23 01:19:11,952 - baseclass -INFO - signup on page
+2023-07-23 01:19:14,073 - baseclass -INFO - enter the mail to new account
+2023-07-23 01:19:14,431 - baseclass -INFO - click on submit button
+2023-07-23 01:23:04,099 - baseclass -INFO - open browser
+2023-07-23 01:23:04,262 - baseclass -INFO - maximize window
+2023-07-23 01:23:04,274 - baseclass -INFO - open window
+2023-07-23 01:26:24,176 - baseclass -INFO - open browser
+2023-07-23 01:26:24,336 - baseclass -INFO - maximize window
+2023-07-23 01:26:24,348 - baseclass -INFO - open window
+2023-07-23 01:45:02,051 - baseclass -INFO - open browser
+2023-07-23 01:45:02,225 - baseclass -INFO - maximize window
+2023-07-23 01:45:02,254 - baseclass -INFO - open window
+2023-07-23 01:47:46,038 - baseclass -INFO - open browser
+2023-07-23 01:47:46,201 - baseclass -INFO - maximize window
+2023-07-23 01:47:46,210 - baseclass -INFO - open window
+2023-07-23 01:49:30,648 - baseclass -INFO - open browser
+2023-07-23 01:49:30,800 - baseclass -INFO - maximize window
+2023-07-23 01:49:30,811 - baseclass -INFO - open window
+2023-07-23 01:51:57,561 - baseclass -INFO - open browser
+2023-07-23 01:51:57,727 - baseclass -INFO - maximize window
+2023-07-23 01:51:57,738 - baseclass -INFO - open window
+2023-07-23 01:51:57,739 - baseclass -INFO - close browser
+2023-07-23 01:51:57,788 - baseclass -INFO - entering the url
+2023-07-23 01:53:25,064 - baseclass -INFO - open browser
+2023-07-23 01:53:25,238 - baseclass -INFO - maximize window
+2023-07-23 01:53:25,247 - baseclass -INFO - open window
+2023-07-23 01:53:25,248 - baseclass -INFO - close browser
+2023-07-23 01:53:25,293 - baseclass -INFO - entering the url
+2023-07-23 01:53:29,114 - baseclass -INFO - signup on page
+2023-07-23 01:53:30,569 - baseclass -INFO - enter the mail to new account
+2023-07-23 01:53:30,765 - baseclass -INFO - click on submit button
+2023-07-23 01:54:36,647 - baseclass -INFO - open browser
+2023-07-23 01:54:36,802 - baseclass -INFO - maximize window
+2023-07-23 01:54:36,814 - baseclass -INFO - open window
+2023-07-23 01:54:36,815 - baseclass -INFO - close browser
+2023-07-23 01:54:36,873 - baseclass -INFO - entering the url
+2023-07-23 01:55:46,989 - baseclass -INFO - open browser
+2023-07-23 01:55:47,147 - baseclass -INFO - maximize window
+2023-07-23 01:55:47,169 - baseclass -INFO - open window
+2023-07-23 01:55:47,171 - baseclass -INFO - close browser
+2023-07-23 01:55:47,224 - baseclass -INFO - entering the url
+2023-07-23 01:56:12,339 - baseclass -INFO - open browser
+2023-07-23 01:56:12,491 - baseclass -INFO - maximize window
+2023-07-23 01:56:12,501 - baseclass -INFO - open window
+2023-07-23 01:56:12,502 - baseclass -INFO - close browser
+2023-07-23 01:56:12,550 - baseclass -INFO - entering the url
